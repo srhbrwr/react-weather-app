@@ -42,11 +42,12 @@ body {
 .Weather .temperature {
     font-size: 64px;
     line-height: 64px;
+    margin-top: 5px;
 }
 
 .Weather .unit {
     font-size: 16px;
     position: relative;
-    margin-top: 5px;
+    margin-top: 7px;
     margin-left: 0;
 }
