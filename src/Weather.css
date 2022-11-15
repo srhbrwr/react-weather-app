@@ -41,6 +41,10 @@ body {
     display: inline-block;
 }
 
+.WeatherTemperature{
+    display: flex;
+}
+
 .Weather .temperature {
     font-size: 64px;
     line-height: 64px;
